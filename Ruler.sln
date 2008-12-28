@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+# SharpDevelop 2.2.1.2648
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruler", "Ruler.csproj", "{14D27307-F940-401C-999C-AF73B9237CBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14D27307-F940-401C-999C-AF73B9237CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D27307-F940-401C-999C-AF73B9237CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D27307-F940-401C-999C-AF73B9237CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14D27307-F940-401C-999C-AF73B9237CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
