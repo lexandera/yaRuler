@@ -165,7 +165,7 @@ namespace RulerProject
         	// 
         	this.notifyIcon.ContextMenu = this.iconMenu;
         	this.notifyIcon.Icon = ((System.Drawing.Icon)(resources.GetObject("notifyIcon.Icon")));
-        	this.notifyIcon.Text = "Ruler";
+        	this.notifyIcon.Text = "yaRuler";
         	this.notifyIcon.Visible = true;
         	this.notifyIcon.Click += new System.EventHandler(this.NotifyIconClick);
         	// 
@@ -302,10 +302,10 @@ namespace RulerProject
         	this.Controls.Add(this.closeBtn);
         	this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
         	this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-        	this.Name = "Ruler";
+        	this.Name = "yaRuler";
         	this.ShowInTaskbar = false;
         	this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-        	this.Text = "Ruler";
+        	this.Text = "yaRuler";
         	this.TopMost = true;
         	this.Load += new System.EventHandler(this.RulerLoad);
         	this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.RulerMouseUp);
